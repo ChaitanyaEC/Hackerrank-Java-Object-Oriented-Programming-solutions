@@ -1,3 +1,5 @@
+/*
+
 Using inheritance, one class can acquire the properties of others. Consider the following Animal class:
 
 class Animal{
@@ -34,6 +36,7 @@ I am walking
 I am flying
 I am singing
 
+*/
 
 import java.io.*;
 import java.util.*;
